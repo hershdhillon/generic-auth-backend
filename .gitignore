@@ -1,0 +1,8 @@
+node_modules/
+.env
+*.log
+/.idea/.gitignore
+/.idea/generic-auth-backend.iml
+/.idea/modules.xml
+/package-lock.json
+/.idea/vcs.xml
